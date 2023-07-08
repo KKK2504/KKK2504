@@ -12,7 +12,6 @@ Third year Bachelor of Technology(B.Tech.) student in Information Technology , i
 
 - 🔭 I’m currently working on **open source and competitive programming**
 - 📫 How to reach me **karankk2504@gmail.com**
-- 🌱 I’m currently learning **Devops**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **java,competitive programming,open source**.
 - ⚡ Fun fact: I love to code 🤪 
