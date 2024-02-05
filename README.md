@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Karan K K</h1>
 
-Third year Bachelor of Technology(B.Tech.) student in Information Technology , interested in latest IT technologies . A fast learner, team player who can work with challenging environment and diverse teams in combining manifold knowledge according to the requirements of the client. A Passionate IT student and Aspiring competitive programmer with the ability to apply codes &  algorithms to solve real-world problems.
+Final year Bachelor of Technology(B.Tech.) student in Information Technology , interested in latest IT technologies . A fast learner, team player who can work with challenging environment and diverse teams in combining manifold knowledge according to the requirements of the client. A Passionate IT student and Aspiring competitive programmer with the ability to apply codes &  algorithms to solve real-world problems.
 
 
 <img align="right" alt="Coding" width="400" src ="https://c.tenor.com/t25bzXBi65kAAAAC/workworkwork-typingcat.gif">
